@@ -4,7 +4,7 @@
 
 Vous travaillez en binôme, un des membres du binôme doit modifier le fichier README avec vos noms, prénoms et groupe.
 
-## Développement en TDD du calcul du score d'un tour de partie de Yahtzee
+## Développement en BDD du calcul du score d'un tour de partie de Yahtzee
 
 [Extrait de Wikipedia](https://fr.wikipedia.org/wiki/Yahtzee)
 
@@ -38,7 +38,7 @@ Des exemples de scénarios de tests avec Cucumber sont présents dans le projet.
 
 ## Exigences qualité
 
-- *Une approche BDD avec Cucumber pour rédiger les tests doit être utilisée.*
+- **Une approche BDD avec Cucumber pour rédiger les tests doit être utilisée.**
 
 - Le code produit doit contenir 0 warning/erreur checkstyle, 0 warning/erreur Spotbug.
 - Chaque cas de figure est résolu par un membre du binôme dans une branche de feature.
