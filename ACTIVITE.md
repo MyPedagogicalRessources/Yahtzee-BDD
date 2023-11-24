@@ -26,7 +26,7 @@ Les différentes figures d'une partie sont les suivantes :
 
 Avant de répondre aux activités suivantes, étudiez la structure et le code présent dans le projet. 
 Les méthodes implantées et testées de la classe YahtzeeTour ont été conçue pour vous faciliter la tâche. 
-Il est donc pertinent de chercher à les utiliser dans les exercices suivants.
+Des exemples de scénarios de tests avec Cucumber sont présents dans le projet.
 
 **Pour chaque cas de figure**
 
@@ -38,11 +38,14 @@ Il est donc pertinent de chercher à les utiliser dans les exercices suivants.
 
 ## Exigences qualité
 
+- *Une approche BDD avec Cucumber pour rédiger les tests doit être utilisée.*
+
 - Le code produit doit contenir 0 warning/erreur checkstyle, 0 warning/erreur Spotbug.
-- Le code produit doit faire l'objet d'une couverture par les tests supérieure à 90%.
 - Chaque cas de figure est résolu par un membre du binôme dans une branche de feature.
 - Chaque cas de figure résolu doit faire l'objet d'une _pull request_ requiérant la revue de code par le membre du binôme
 n'ayant pas travaillé sur le cas de figure concerné.
 - Les contributions de chaque branche de feature sont intégrées à la branche principale suivant la stratégie "rebase" puis "merge --no-ff"
 étudiée dans les précédents TP.
+
+
 
