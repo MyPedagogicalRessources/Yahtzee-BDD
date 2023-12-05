@@ -17,7 +17,7 @@ Feature: Calcul du score d'un tour de Yahtzee
       Given un utilisateur obtenant [2;2;2;2;2] en jetant ses dés
       Then le score obtenu est 50
 
-    Example: l'obtention des valeurs 6,6,6,6,6 conduit à un score de 18
+    Example: l'obtention des valeurs 6,6,6,6,6 conduit à un score de 50
       Given un utilisateur obtenant [6;6;6;6;6] en jetant ses dés
       Then le score obtenu est 50
 

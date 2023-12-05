@@ -15,9 +15,8 @@ public class YahtzeeScoreStepdefs {
     }
 
     @Then("le score obtenu est {int}")
-    public void leScoreObtenuEst(int score) {
-        assertEquals(score,yahtzeeTour.calculeScore());
+    public void le_score_obtenu_est(Integer int1) {
+        assertEquals(int1, yahtzeeTour.calculeScore());
     }
-
 
 }
